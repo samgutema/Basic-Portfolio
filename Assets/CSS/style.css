@@ -1,3 +1,8 @@
+html {
+    width:960px;
+    margin:0 auto;
+}
+
 h1 {
 
 background-color:orange;
@@ -65,7 +70,7 @@ body {
 #about {
     background-color: lightblue;
     height: 300px;
-    width: 86%;
+    width: 80%;
     margin-left: 60px;
     border: solid black 1px;
     padding-left: 10px;
@@ -81,7 +86,7 @@ footer {
 #contact {
     background-color: lightblue;
     height: 300px;
-    width: 86%;
+    width: 80%;
     margin-left: 60px;
     border: solid black 1px;
     padding-left: 10px;
@@ -111,22 +116,16 @@ footer {
 }
 
 
-html, {
-    position:fixed;
-    top:0;
-    bottom:0;
-    left:0;
-    right:0;
-    overflow: auto;
-}
+
 
 
 #portfolio {
     background-color: lightblue;
     height: 300px;
-    width: 86%;
+    width: 80%;
     margin-left: 60px;
     border: solid black 1px;
     padding-left: 10px;
 
 }
+
