@@ -12,8 +12,24 @@ ul, a {
     height:60px;
     width:100%;
     font-family: 'Georgia', Times, Times New Roman, serif ;
+
     
 }
+
+.pimg:hover {
+    background-color: lightblue;
+    height: 0px;
+    width:0px;
+    border-bottom:2px solid red ;
+   
+
+}
+
+.pimg {
+    background-color:lightblue;
+    color:lightblue;
+}
+
 
 a:hover {
     background-color:red;
@@ -90,6 +106,7 @@ footer {
 #submit {
     background-color: rgb(236, 100, 46);
     color: black;
+    
 
 }
 
@@ -100,6 +117,7 @@ html, {
     bottom:0;
     left:0;
     right:0;
+    overflow: auto;
 }
 
 
