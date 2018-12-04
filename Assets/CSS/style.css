@@ -1,0 +1,86 @@
+h1 {
+
+background-color:orange;
+height:40px;
+width:50%;
+
+
+}
+
+ul, a {
+   background-color: orange;
+    height:60px;
+    width:100%;
+   
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
+
+#name {
+    font-size: 50px;
+    background-color: green;
+    margin-left: 60px;
+}
+
+#img1 {
+    height:100px;
+    width: 100px;
+    float:left;
+}
+
+body {
+    background: rgb(143, 140, 140);
+}
+
+#about {
+    background-color: lightblue;
+    height: 300px;
+    width: 86%;
+    margin-left: 60px;
+    border: solid black 1px;
+    padding-left: 10px;
+}
+
+footer {
+    background-color: orange;
+    height:20px;
+    width:100%;
+}
+
+#contact {
+    background-color: lightblue;
+    height: 300px;
+    width: 86%;
+    margin-left: 60px;
+    border: solid black 1px;
+    padding-left: 10px;
+}
+
+
+#input1 {
+   
+    width:300px;
+}
+
+#input2 {
+
+    width:300px;
+}
+
+#input3 {
+    height: 80px;
+    width:300px;
+}
+
+#submit {
+    background-color: green;
+    color: black;
+}
