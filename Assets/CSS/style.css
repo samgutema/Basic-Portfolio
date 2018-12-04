@@ -3,19 +3,10 @@ html {
     margin:0 auto;
 }
 
-h1 {
-
-background-color:orange;
-height:40px;
-width:50%;
-
-
-}
-
 ul, a {
-   background-color: orange;
+   background-color: lightblue;
     height:60px;
-    width:100%;
+    width:960px;
     font-family: 'Georgia', Times, Times New Roman, serif ;
 
     
@@ -51,9 +42,9 @@ li {
 }
 
 #name {
-    font-size: 50px;
+    font-size: 53px;
     background-color: rgb(236, 100, 46);
-    margin-left: 60px;
+    margin-left: 60px; 
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
@@ -64,7 +55,9 @@ li {
 }
 
 body {
-    background: rgb(143, 140, 140);
+    background: rgb(70, 77, 80);
+    width: 960px;
+    margin:0;
 }
 
 #about {
@@ -78,9 +71,9 @@ body {
 }
 
 footer {
-    background-color: orange;
+    background-color: lightblue;
     height:20px;
-    width:100%;
+    width:960px;
 }
 
 #contact {
